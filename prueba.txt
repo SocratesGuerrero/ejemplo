@@ -1,1 +1,2 @@
-archivo de prueba
+archivo de pruebaNueva linea
+\nNueva linea
