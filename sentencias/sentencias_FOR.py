@@ -8,7 +8,7 @@ lista = ["uno", "dos", "tres", "cuatro", "cinco"]
 for elemento in lista:
   print elemento
   
-for var in range(2,10,2):		#Valor inicial, final, incremento
+for var in range(2,10,1):		#Valor inicial, final, incremento
   print var
 
 
