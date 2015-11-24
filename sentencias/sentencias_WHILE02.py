@@ -4,7 +4,7 @@
 
 while True:
   entrada = raw_input("> ")
-  if entrada == "salir":
+  if entrada == "entrar":
     break
   else:
     print entrada

@@ -5,7 +5,7 @@
 
 a = 0
 
-while a < 5:
+while a < 9:
   print 'Incrementando', a
   a = a+1
 

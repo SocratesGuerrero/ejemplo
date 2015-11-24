@@ -5,10 +5,10 @@
 a = 0
 b = float(raw_input('Ingresa un numero ', ))
 
-if b > 5:
+if b > 4:
   a = b*1
 elif b > 0:	
-  a = b*5
+  a = b*4
 else:
   a = 0
 
